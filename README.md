@@ -39,9 +39,8 @@
 ## Stats
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuizDann&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuizDann&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)\
-<--!
-[![RuizDann's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RuizDann&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+<> [![RuizDann's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RuizDann&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Hobbies
