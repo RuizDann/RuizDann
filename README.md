@@ -41,7 +41,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuizDann&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-[![RuizDann's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RuizDann)](https://github.com/anuraghazra/github-readme-stats)
+[![RuizDann's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RuizDann)](https://wakatime.com/@RuizDann)
 <!--END_SECTION:waka-->
 
 
