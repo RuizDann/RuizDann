@@ -41,7 +41,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuizDann&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-
+<img
+  src="https://github.com/RuizDann/RuizDann/blob/main/images/stat.svg"
+  alt="Daniel's WakaTime Activity"
+/>
 <!--END_SECTION:waka-->
 
 
