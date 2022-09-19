@@ -37,15 +37,12 @@
 
 
 ## Stats
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuizDann&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuizDann&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
 <p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=RuizDann&count_private=true&show_icons=true&theme=tokyonight" alt="RuizDann Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuizDann&layout=compact&langs_count=8&theme=tokyonight" alt="RuizDann Top Langs" />
   <img src="https://wakatime.com/share/@RuizDann/73a33785-073b-43f6-b75d-f3c87059546e.svg" height="350" alt="RuizDann" />
   <img src="https://wakatime.com/share/@RuizDann/de68f3ba-9453-49af-9904-8d7636d2fcdc.svg" height="350" alt="RuizDann" />
 </p>
-<!--END_SECTION:waka-->
 
 
 ## Hobbies
