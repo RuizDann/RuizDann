@@ -8,27 +8,41 @@
 </p>
  
  ## :raising_hand_man: About Me
-- :school: I am a `Senior` at Loras College in Dubuque, IA.
-- :student: I am majoring in `Computer Science` and have my minor in `Mathematics`.
-- :computer: I am also taking online courses on Coursera
+- :school: I graduated from Loras College '23.
+- :computer: I am currently working on the `Meta Front-End Developer Professional Certificate` on Coursera.
 - :technologist: I love using software as a solution for every problem.
 - :thinking: I am open for an `internship` or a new `job opportunity`.
 
 ## My Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![MySQL](https://img.shields.io/badge/mysql-05122A?style=flat&logo=mysql&logoColor=white)\
-![TailwindCSS](https://img.shields.io/badge/Tailwindcss-05122A?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![OpenGL](https://img.shields.io/badge/OpenGL-05122A?style=flat&logo=opengl)&nbsp;
-![WebGL](https://img.shields.io/badge/WebGL-05122A?logo=webgl&logoColor=white&style=flat)\
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
+### Front-End Development
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown&logoColor=white)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=React)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwindcss-05122A?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![WebGL](https://img.shields.io/badge/WebGL-05122A?logo=webgl&logoColor=white&style=flat)&nbsp;
+### Back-End Development
+![MySQL](https://img.shields.io/badge/mysql-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
+![Apache](https://img.shields.io/badge/Apache-05122A?style=flat&logo=apache)&nbsp;
+![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-05122A?style=flat&logo=phpmyadmin)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+
+### Other Tools and Technologies
+![GIT](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
+![Github](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown&logoColor=white)&nbsp;
+![ExpoGo](https://img.shields.io/badge/Expo_Go-05122A?style=flat&logo=expo)&nbsp;
+![OpenGL](https://img.shields.io/badge/OpenGL-05122A?style=flat&logo=opengl)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=blue)&nbsp;
 ![Visual Studio 2019](https://img.shields.io/badge/Visual%20Studio%202019-05122A?style=flat&logo=visual-studio&logoColor=purple)&nbsp;
 ![Spyder](https://img.shields.io/badge/Spyder-05122A?style=flat&logo=spyder%20ide&logoColor=maroon)&nbsp;
