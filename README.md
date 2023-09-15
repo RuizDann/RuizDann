@@ -27,7 +27,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=React)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwindcss-05122A?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-05122A?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![WebGL](https://img.shields.io/badge/WebGL-05122A?logo=webgl&logoColor=white&style=flat)&nbsp;
 ### Back-End Development
