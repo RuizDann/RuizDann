@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Daniel Ruiz 👋</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;U.S.+Army+Veteran;Always+learning+new+things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Graduate;U.S.+Army+Veteran;Always+learning+new+things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
